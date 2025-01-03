@@ -13,7 +13,7 @@ In today's competitive business landscape, understanding customer behavior is es
 The dataset used in this project is sourced from [AbsentData](https://absentdata.com/data-analysis/where-to-find-data/) It includes key features such as:
 
 Income: The annual income of the customer
-Age: The age of the customer
+* Age: The age of the customer
 Gender: Whether the Ccustomer is male or female
 Spending Score: A score based on the customer's purchasing behavior
 
