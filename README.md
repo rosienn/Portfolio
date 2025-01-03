@@ -10,7 +10,7 @@ This project applies unsupervised machine learning through clustering to identif
 In today's competitive business landscape, understanding customer behavior is essential for creating impactful marketing campaigns. This project segments customers based on income, age, and spending score to uncover actionable insights. By identifying distinct customer groups, businesses can implement targeted strategies that resonate with each segment, improving satisfaction, engagement and conversion rates.
 
 ### Dataset 
-The dataset used in this project is sourced from [AbsentData]([https://www.example.com](https://absentdata.com/data-analysis/where-to-find-data/) It includes key features such as:
+The dataset used in this project is sourced from [AbsentData](https://www.example.com](https://absentdata.com/data-analysis/where-to-find-data/) It includes key features such as:
 
 Income: The annual income of the customer
 Age: The age of the customer
