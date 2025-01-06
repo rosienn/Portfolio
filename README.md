@@ -21,4 +21,17 @@ Data preprocessing steps included checking for missing values, standardizing num
 
 ### Methodology 
 
-look at approach section in my video 
+1. Data Preprocessing:
+* Performed quick Exploratory Data Analysis (EDA) to understand data distribution and identify anomalies
+* Encoded categorical variable "Gender" into a numeric variable (1 or 0) to ensure compatibility with machine learning algorithms
+* Normalized data for effective clustering
+  
+2. Clustering Algorithm:
+* Applied K-Means clustering to segment customers based on income, age, gender, and spending score
+* Determined the optimal number of clusters using the elbow method
+  
+3. Evaluation:
+* Visualized cluster distributions and analyzed patterns within each group to identify actionable insights
+* Used summary statistics on each cluster to understand their key characteristics
+
+### Key Findings
