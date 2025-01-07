@@ -35,3 +35,15 @@ Data preprocessing steps included checking for missing values, standardizing num
 * Used summary statistics on each cluster to understand their key characteristics
 
 ### Key Findings
+
+<img src="https://github.com/user-attachments/assets/917ceed5-f225-4bb5-b41b-ef5a17ec35ac" align="left" width="400" alt="Clustering Visualization">
+
+As can be seen, customers were segmented into **5 distinct groups**, each characterized by unique behaviors and demographic profiles:  
+
+- **Cluster 0**: The target group with high income and spending score 
+  * 60% of shoppers in this cluster are women. A marketing campaign focused on popular items within this cluster, tailored to women's preferences, would be beneficial
+- **Cluster 4**: Low income but high spending score—this presents an intriguing opportunity for targeted marketing. Marketing strategies focusing on value-driven offers and loyalty programs could attract customers in this group.  
+
+These insights provide a foundation for implementing tailored marketing strategies that cater to each group’s specific needs, enhancing customer engagement and increasing conversions.
+
+
