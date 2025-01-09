@@ -36,7 +36,9 @@ This section lists my data analytics and machine learning projects, with brief d
 
 **Technology:** Python, scikit-learn, matplotlib, pandas, seaborn.  
 
-**Results:** Identified distinct customer groups, leading to actionable marketing strategies.  
+**Results:** Identified distinct customer groups, leading to actionable marketing strategies
+
+**Key Findings:**
 
 ---
 
