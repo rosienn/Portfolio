@@ -11,7 +11,7 @@ This repository showcases my skills and projects in data analytics and machine l
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
    - Python
-     - [Shopper Segmentation & Clustering for Targeted Marketing](#Shopper-Segmentation-Clustering-for-Targeted-Marketing)
+     - [Shopper Segmentation & Clustering for Targeted Marketing](#Shopper-Segmentation-and-Clustering-for-Targeted-Marketing)
    - [SQL](#sql)
    - [Excel/Google Sheets](#excelgoogle-sheets)
    - [Power BI/Tableau](#power-bitableau)
@@ -24,7 +24,7 @@ This repository showcases my skills and projects in data analytics and machine l
 ## **Portfolio Projects**
 This section lists my data analytics and machine learning projects, with brief descriptions of the technology stack and methods used.
 
-### **Shopper Segmentation & Clustering for Targeted Marketing** 
+### **Shopper Segmentation and Clustering for Targeted Marketing** 
 **Code:** [Shopper Segmentation & Clustering for Targeted Marketing.ipynb](#) 
 [Open Notebook](Shopper Segmentation & Clustering for Targeted Marketing.ipynb)
 
