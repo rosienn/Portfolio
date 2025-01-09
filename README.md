@@ -1,4 +1,77 @@
-# Rosie's Portfolio
+ # **Rosie N. Osi - Data Analyst Portfolio**
+
+## **About**
+Hi, I'm Rosie! I'm a seasoned data analyst with over 5 years of experience in data cleaning, analysis, and visualization. With a strong foundation in delivering user-centered, fit-for-purpose solutions, I specialize in uncovering actionable insights and communicating them effectively to diverse stakeholders.
+
+This repository showcases my skills and projects in data analytics and machine learning, including customer segmentation and data visualization. It’s a space where I track my growth and share my work with the data community.
+
+---
+
+## **Table of Contents**
+* [About](#about)
+* [Portfolio Projects](#portfolio-projects)
+   - [Python](#python)
+   - [SQL](#sql)
+   - [Excel/Google Sheets](#excelgoogle-sheets)
+   - [Power BI/Tableau](#power-bitableau)
+* [Education](#education)
+* [Certificates](#certificates)
+* [Contact Information](#contact-information)
+
+---
+
+## **Portfolio Projects**
+This section lists my data analytics and machine learning projects, with brief descriptions of the technology stack and methods used.
+
+### **Python**
+#### Customer Segmentation for Marketing Campaigns  
+**Goal:** Segment customers based on their behaviors and demographics to optimize marketing strategies.  
+**Code:** [Customer_Segmentation.ipynb](#)  
+**Description:** This project involved clustering customers using K-Means to identify patterns based on income, age, and spending score.  
+**Skills:** Data preprocessing, clustering, visualization, EDA.  
+**Technology:** Python, scikit-learn, matplotlib, pandas, seaborn.  
+**Results:** Identified distinct customer groups, leading to actionable marketing strategies.  
+
+---
+
+### **SQL**
+#### Sales Data Cleaning and Analysis  
+**Code:** [Sales_Data_Cleaning.sql](#)  
+**Description:** Cleaned and analyzed sales transaction data to uncover trends and optimize reporting.  
+**Skills:** Joins, aggregate functions, data cleaning, querying.  
+**Technology:** SQL Server.  
+**Results:** Improved data quality and provided key insights into product performance.  
+
+---
+
+## **Education**
+- **Bachelor of Science in [Your Major]**, [Your University], [Year of Graduation]  
+- Relevant coursework: [List key subjects if applicable]  
+
+---
+
+## **Certificates**
+- Google Data Analytics Professional Certificate (Completion Date)  
+- Python for Data Science (Completion Date)  
+- [Other relevant certificates you have earned]  
+
+---
+
+## **Contact Information**
+- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **Email:** [Your Email Address](#)  
+
+
+
+
+
+
+
+
+
+
+
+# Rosie Osi - Data Analyst Portfolio
 
 This portfolio houses projects that I am passionate about 
 
