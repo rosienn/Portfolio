@@ -10,8 +10,8 @@ This repository showcases my skills and projects in data analytics and machine l
 ## **Table of Contents**
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
-   - [Python](#python)
-     - [Customer Segmentation for Marketing Campaigns  ](#Customer-Segmentation-for-Marketing-Campaigns)
+   - Python
+     - [Customer Segmentation for Marketing Campaigns](#Customer-Segmentation-for-Marketing-Campaigns)
    - [SQL](#sql)
    - [Excel/Google Sheets](#excelgoogle-sheets)
    - [Power BI/Tableau](#power-bitableau)
@@ -24,13 +24,17 @@ This repository showcases my skills and projects in data analytics and machine l
 ## **Portfolio Projects**
 This section lists my data analytics and machine learning projects, with brief descriptions of the technology stack and methods used.
 
-### **Python**
-#### Customer Segmentation for Marketing Campaigns  
-**Goal:** Segment customers based on their behaviors and demographics to optimize marketing strategies.  
+### **Shopper Segmentation & Clustering for Targeted Marketing** 
 **Code:** [Customer_Segmentation.ipynb](#)  
-**Description:** This project involved clustering customers using K-Means to identify patterns based on income, age, and spending score.  
-**Skills:** Data preprocessing, clustering, visualization, EDA.  
+
+**Goal:** Segment customers based on their behaviors and demographics to optimize marketing strategies.  
+
+**Description:** This project involved clustering customers using K-Means to identify patterns based on income, age, and spending score.
+
+**Skills:** Data preprocessing, clustering, visualization, EDA.
+
 **Technology:** Python, scikit-learn, matplotlib, pandas, seaborn.  
+
 **Results:** Identified distinct customer groups, leading to actionable marketing strategies.  
 
 ---
@@ -115,7 +119,7 @@ Data preprocessing steps included checking for missing values, standardizing num
 As can be seen, customers were segmented into **5 distinct groups**, each characterized by unique behaviors and demographic profiles:  
 
 - **Cluster 0**: The target group with high income and spending score 
-  * 60% of shoppers in this cluster are women. A marketing campaign focused on popular items within this cluster, tailored to women's preferences, would be beneficial
+  * 53% of shoppers in this cluster are women. A marketing campaign focused on popular items within this cluster, tailored to women's preferences, would be beneficial
 - **Cluster 4**: Low income but high spending score—this presents an intriguing opportunity for targeted marketing. Marketing strategies focusing on value-driven offers and loyalty programs could attract customers in this group.  
 
 These insights provide a foundation for implementing tailored marketing strategies that cater to each group’s specific needs, enhancing customer engagement and increasing conversions.
