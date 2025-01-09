@@ -1,4 +1,5 @@
- # **Rosie N. Osi - Data Analyst Portfolio**
+ ### **Rosie N. Osi - Data Analyst Portfolio**
+ ---
 
 ## **About**
 Hi, I'm Rosie! I'm a seasoned data analyst with over 5 years of experience in data cleaning, analysis, and visualization. With a strong foundation in delivering user-centered, fit-for-purpose solutions, I specialize in uncovering actionable insights and communicating them effectively to diverse stakeholders.
