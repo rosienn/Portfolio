@@ -26,7 +26,7 @@ This section lists my data analytics and machine learning projects, with brief d
 
 ### **Shopper Segmentation and Clustering for Targeted Marketing** 
 **Code:** [Shopper Segmentation and Clustering for Targeted Marketing.ipynb](#)   
-* [kkkk](portfolio/Shopper Segmentation and Clustering for Targeted Marketing.ipynb)
+* [kkkk](Shopper Segmentation and Clustering for Targeted Marketing.ipynb)
 
 **Goal:** Segment customers based on their behaviors and demographics to optimize marketing strategies.  
 
