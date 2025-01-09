@@ -11,7 +11,7 @@ This repository showcases my skills and projects in data analytics and machine l
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
    - Python
-     - [Customer Segmentation for Marketing Campaigns](#Customer-Segmentation-for-Marketing-Campaigns)
+     - [Shopper Segmentation & Clustering for Targeted Marketing](#Shopper-Segmentation-&-Clustering-for-Targeted-Marketing)
    - [SQL](#sql)
    - [Excel/Google Sheets](#excelgoogle-sheets)
    - [Power BI/Tableau](#power-bitableau)
