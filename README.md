@@ -25,7 +25,7 @@ This repository showcases my skills and projects in data analytics and machine l
 This section lists my data analytics and machine learning projects, with brief descriptions of the technology stack and methods used.
 
 ### **Shopper Segmentation and Clustering for Targeted Marketing** 
-**Code:** [Shopper Segmentation & Clustering for Targeted Marketing.ipynb](#) 
+**Code:** [Shopper Segmentation and Clustering for Targeted Marketing.ipynb](#) 
 [Open Notebook](portfolio/Shopper Segmentation & Clustering for Targeted Marketing.ipynb)
 
 
