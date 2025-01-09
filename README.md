@@ -32,13 +32,13 @@ This section lists my data analytics and machine learning projects, with brief d
 
 **Description:** This project involved clustering customers using K-Means to identify patterns based on income, age, and spending score.
 
-**Skills:** Data preprocessing, clustering, visualization, EDA.
+**Skills:** Data preprocessing, clustering, visualization, Exploratory Data Analysis(EDA).
 
 **Technology:** Python, scikit-learn, matplotlib, pandas, seaborn.  
 
 **Results:** Identified distinct customer groups, leading to actionable marketing strategies
 
-**Key Findings:**
+**Key Findings:** powerpoint link 
 
 ---
 
