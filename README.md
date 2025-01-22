@@ -4,7 +4,6 @@
 ## **About**
 Hi, I'm Rosie! I'm a seasoned data analyst with over 5 years of experience in data cleaning, analysis, and visualization. With a strong foundation in delivering user-centered, fit-for-purpose solutions, I specialize in uncovering actionable insights and communicating them effectively to diverse stakeholders.
 
-MY CV ADDD ! 
 
 This repository showcases my skills and projects in data analytics and machine learning, including customer segmentation and data visualization. It’s a space where I track my growth and share my work with the data community.
 
@@ -31,6 +30,8 @@ This section lists my data analytics and machine learning projects, with brief d
 
 ### **Shopper Segmentation and Clustering for Targeted Marketing** 
 **Code:** [Shopper Segmentation and Clustering for Targeted Marketing.ipynb](https://github.com/rosienn/Portfolio/blob/main/Shopper%20Segmentation%20and%20Clustering%20for%20Targeted%20Marketing.ipynb)   
+ 
+<img src="https://github.com/user-attachments/assets/917ceed5-f225-4bb5-b41b-ef5a17ec35ac" align="left" width="500" alt="Clustering Visualization">
 
 **Goal:** Segment customers based on their behaviors and demographics to optimize marketing strategies.  
 
@@ -40,15 +41,20 @@ This section lists my data analytics and machine learning projects, with brief d
 
 **Technology:** Python, scikit-learn, matplotlib, pandas, seaborn.  
 
-**Results:** Identified distinct customer groups, leading to actionable marketing strategies
+**Results:** Customers were segmented into 5 distinct groups, each with unique behaviors and demographics:
 
-**Key Findings:** powerpoint link 
+- **Cluster 0**: High income and high spending score, with 53% women. A marketing campaign tailored to women’s preferences and popular items could be highly effective.
+- **Cluster 4**: Low income but high spending score, presenting an opportunity to attract customers through value-driven offers and loyalty programs.
 
-#### European Soccer Analysis 
+### **European Soccer Analysis**
 **Code:** [european-soccer-analysis.ipynb](european-soccer-analysis.ipynb)  
+
 **Description:** Cleaned and analyzed sales transaction data to uncover trends and optimize reporting.  
-**Skills:** Joins, aggregate functions, data cleaning, querying.  
+
+**Skills:** Joins, aggregate functions, subqueries, CTE's, querying.  
+
 **Technology:** SQL Server.  
+
 **Results:** Improved data quality and provided key insights into product performance.  
 
 ---
