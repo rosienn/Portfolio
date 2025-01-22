@@ -48,6 +48,8 @@ This section lists my data analytics and machine learning projects, with brief d
 
 ### **European Soccer Analysis**
 **Code:** [european-soccer-analysis.ipynb](european-soccer-analysis.ipynb)  
+dataset somewhere in both projects ???
+**Goal:** 
 
 **Description:** Cleaned and analyzed sales transaction data to uncover trends and optimize reporting.  
 
