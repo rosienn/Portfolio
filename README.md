@@ -44,11 +44,8 @@ This section lists my data analytics and machine learning projects, with brief d
 
 **Key Findings:** powerpoint link 
 
----
-
-### **SQL**
 #### European Soccer Analysis 
-**Code:** [Sales_Data_Cleaning.sql](#)  
+**Code:** [uropean-soccer-analysis.ipynb](https://github.com/rosienn/Portfolio/edit/main/README.md#:~:text=european%2D-,soccer,-%2Danalysis.ipynb)  
 **Description:** Cleaned and analyzed sales transaction data to uncover trends and optimize reporting.  
 **Skills:** Joins, aggregate functions, data cleaning, querying.  
 **Technology:** SQL Server.  
