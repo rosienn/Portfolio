@@ -15,6 +15,8 @@ This repository showcases my skills and projects in data analytics and machine l
 * [Portfolio Projects](#portfolio-projects)
    - Python
      - [Shopper Segmentation and Clustering for Targeted Marketing](#Shopper-Segmentation-and-Clustering-for-Targeted-Marketing)
+  - SQL
+    - [European Soccer Analysis](#European-Soccer-Analysis)
    - [SQL](#sql)
    - [Excel/Google Sheets](#excelgoogle-sheets)
    - [Power BI/Tableau](#power-bitableau)
@@ -45,7 +47,7 @@ This section lists my data analytics and machine learning projects, with brief d
 ---
 
 ### **SQL**
-#### Sales Data Cleaning and Analysis  
+#### European Soccer Analysis 
 **Code:** [Sales_Data_Cleaning.sql](#)  
 **Description:** Cleaned and analyzed sales transaction data to uncover trends and optimize reporting.  
 **Skills:** Joins, aggregate functions, data cleaning, querying.  
