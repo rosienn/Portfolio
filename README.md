@@ -62,7 +62,7 @@ This section lists my data analytics and machine learning projects, with brief d
 ---
 
 ## **Education**
-- **Masters of Engineering in Mechanical Engineering, University College London  
+- **Masters of Engineering in Mechanical Engineering, University College London**  
 
 ---
 
@@ -73,8 +73,8 @@ This section lists my data analytics and machine learning projects, with brief d
 ---
 
 ## **Contact Information**
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rosienosi/)  
-- **Email:** [Your Email Address](rosienosi@gmail.com)  
+- **LinkedIn:** [Rosie N. Osi](https://www.linkedin.com/in/rosienosi/)  
+- **Email:** rosienosi@gmail.com 
 
 
 
