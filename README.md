@@ -48,16 +48,16 @@ This section lists my data analytics and machine learning projects, with brief d
 
 ### **European Soccer Analysis**
 **Code:** [european-soccer-analysis.ipynb](european-soccer-analysis.ipynb)  
-dataset somewhere in both projects ???
-**Goal:** 
 
-**Description:** Cleaned and analyzed sales transaction data to uncover trends and optimize reporting.  
+**Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
+
+**Description:** An SQL-driven exploration of a European soccer database, showcasing expertise in querying and data analysis.  
 
 **Skills:** Joins, aggregate functions, subqueries, CTE's, querying.  
 
 **Technology:** SQL Server.  
 
-**Results:** Improved data quality and provided key insights into product performance.  
+**Results:** The analysis provided a structured view of team standings, showcasing SQL skills in data extraction and manipulation.
 
 ---
 
