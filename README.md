@@ -62,21 +62,19 @@ This section lists my data analytics and machine learning projects, with brief d
 ---
 
 ## **Education**
-- **Bachelor of Science in [Your Major]**, [Your University], [Year of Graduation]  
-- Relevant coursework: [List key subjects if applicable]  
+- **Masters of Engineering in Mechanical Engineering, University College London  
 
 ---
 
 ## **Certificates**
-- Google Data Analytics Professional Certificate (Completion Date)  
-- Python for Data Science (Completion Date)  
-- [Other relevant certificates you have earned]  
+- Microsoft Certified Power Bi Data Analyst Associate
+- IBM Data Analyst Profession Certification
 
 ---
 
 ## **Contact Information**
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Email:** [Your Email Address](#)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rosienosi/)  
+- **Email:** [Your Email Address](rosienosi@gmail.com)  
 
 
 
