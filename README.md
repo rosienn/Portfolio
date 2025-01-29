@@ -2,7 +2,7 @@
 
 
 ## **About**
-Hi, I'm Rosie! I'm a seasoned data analyst with over 5 years of experience in data cleaning, analysis, and visualization. With a strong foundation in delivering user-centered, fit-for-purpose solutions, I specialize in uncovering actionable insights and communicating them effectively to diverse stakeholders.
+Hi, I'm Rosie! A seasoned data analyst with over 5 years of experience in data cleaning, analysis, and visualization. With a strong foundation in delivering user-centered, fit-for-purpose solutions, I specialize in uncovering actionable insights and communicating them effectively to diverse stakeholders.
 
 
 This repository showcases my skills and projects in data analytics and machine learning, including customer segmentation and data visualization. It’s a space where I track my growth and share my work with the data community.
