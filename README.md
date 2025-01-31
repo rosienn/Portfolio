@@ -46,7 +46,7 @@ This section lists my data analytics and machine learning projects, with brief d
 - **Cluster 4**: Low income but high spending score, presenting an opportunity to attract customers through value-driven offers and loyalty programs.
 
 ### **European Soccer Analysis**
-**Code:** [european-soccer-analysis](european-soccer-analysis.ipynb)  
+**Code:** [european-soccer-analysis](https://github.com/rosienn/Portfolio/blob/main/european-soccer-analysis.ipynb) 
 
 **Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
 
