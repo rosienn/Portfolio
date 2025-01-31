@@ -61,6 +61,10 @@ This section lists my data analytics and machine learning projects, with brief d
 ### **Web Marketing KPI Dashboard**
 **Dashboard:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
+<img src="Screenshot 2025-01-31 at 2.54.38 PM.png" align="left" width="500" alt="Clustering Visualization">
+
+Screenshot 2025-01-31 at 2.54.38 PM.png
+
 **Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
 
 **Description:** An SQL-driven exploration of a European soccer database, showcasing expertise in querying and data analysis.  
