@@ -18,10 +18,6 @@ This repository showcases my skills and projects in data analytics and machine l
     - [European Soccer Analysis](#European-Soccer-Analysis)
   - Tableau
     - [Web Marketing Dashboard](#Web-Marketing-kpi-Dashboard)
-    - 
-   - [SQL](#sql)
-   - [Excel/Google Sheets](#excelgoogle-sheets)
-   - [Power BI/Tableau](#power-bitableau)
 * [Education](#education)
 * [Certificates](#certificates)
 * [Contact Information](#contact-information)
@@ -50,7 +46,7 @@ This section lists my data analytics and machine learning projects, with brief d
 - **Cluster 4**: Low income but high spending score, presenting an opportunity to attract customers through value-driven offers and loyalty programs.
 
 ### **European Soccer Analysis**
-**Code:** [european-soccer-analysis.ipynb](european-soccer-analysis.ipynb)  
+**Code:** [european-soccer-analysis](european-soccer-analysis.ipynb)  
 
 **Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
 
