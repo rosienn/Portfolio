@@ -28,7 +28,7 @@ This repository showcases my skills and projects in data analytics and machine l
 This section lists my data analytics and machine learning projects, with brief descriptions of the technology stack and methods used.
 
 ### **Shopper Segmentation and Clustering for Targeted Marketing** 
-**Code:** [Shopper Segmentation and Clustering for Targeted Marketing.ipynb](https://github.com/rosienn/Portfolio/blob/main/Shopper%20Segmentation%20and%20Clustering%20for%20Targeted%20Marketing.ipynb)   
+**Code:** [Shopper Segmentation and Clustering for Targeted Marketing](https://github.com/rosienn/Portfolio/blob/main/Shopper%20Segmentation%20and%20Clustering%20for%20Targeted%20Marketing.ipynb)   
  
 <img src="https://github.com/user-attachments/assets/917ceed5-f225-4bb5-b41b-ef5a17ec35ac" align="left" width="500" alt="Clustering Visualization">
 
@@ -59,7 +59,7 @@ This section lists my data analytics and machine learning projects, with brief d
 **Results:** The analysis provided a structured view of team standings, showcasing SQL skills in data extraction and manipulation.
 
 ### **Web Marketing KPI Dashboard**
-**Code:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+**Dashboard:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 **Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
 
