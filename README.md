@@ -13,7 +13,7 @@ This repository showcases my skills and projects in data analytics and machine l
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
    - Python
-     - [Shopper Segmentation and Clustering for Targeted Marketing](#Shopper-Segmentation-and-Clustering-for-Targeted-Marketing)
+     - [Shopper Segmentation and Clustering for Targeted Marketing](#shopper-segmentation-and-clustering-for-targeted-marketing)
   - SQL
     - [European Soccer Analysis](#European-Soccer-Analysis)
   - Tableau
