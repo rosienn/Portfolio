@@ -59,7 +59,7 @@ This section lists my data analytics and machine learning projects, with brief d
 **Results:** The analysis provided a structured view of team standings, showcasing SQL skills in data extraction and manipulation.
 
 ### **Web Marketing KPI Dashboard**
-**Code:** [Web-Marketing-Dashboard]([european-soccer-analysis.ipynb](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+**Code:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 **Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
 
