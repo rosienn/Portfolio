@@ -16,6 +16,8 @@ This repository showcases my skills and projects in data analytics and machine l
      - [Shopper Segmentation and Clustering for Targeted Marketing](#Shopper-Segmentation-and-Clustering-for-Targeted-Marketing)
   - SQL
     - [European Soccer Analysis](#European-Soccer-Analysis)
+ - Tableau
+    - [Web Marketing Dashboard](#Web-Marketing-Dashboard)
    - [SQL](#sql)
    - [Excel/Google Sheets](#excelgoogle-sheets)
    - [Power BI/Tableau](#power-bitableau)
@@ -48,6 +50,19 @@ This section lists my data analytics and machine learning projects, with brief d
 
 ### **European Soccer Analysis**
 **Code:** [european-soccer-analysis.ipynb](european-soccer-analysis.ipynb)  
+
+**Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
+
+**Description:** An SQL-driven exploration of a European soccer database, showcasing expertise in querying and data analysis.  
+
+**Skills:** Joins, aggregate functions, subqueries, CTE's, querying.  
+
+**Technology:** SQL Server.  
+
+**Results:** The analysis provided a structured view of team standings, showcasing SQL skills in data extraction and manipulation.
+
+### **Web Marketing KPI Dashboard**
+**Code:** [Web-Marketing-Dashboard]([european-soccer-analysis.ipynb](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 
 **Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
 
