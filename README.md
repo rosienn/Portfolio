@@ -52,7 +52,7 @@ This section lists my data analytics and machine learning projects, with brief d
 ### **European Soccer Analysis**
 **Code:** [european-soccer-analysis](https://github.com/rosienn/Portfolio/blob/main/european-soccer-analysis.ipynb) 
 
-<img src="https://github.com/user-attachments/assets/922c2d66-c04d-4ff6-9672-eec1d9ce0b19" align="left" width="600" alt="Clustering Visualization">
+<img src="https://github.com/user-attachments/assets/922c2d66-c04d-4ff6-9672-eec1d9ce0b19" align="left" width="400" alt="Clustering Visualization">
 
 **DataSet:** [Open Source (Kaggle)](https://www.kaggle.com/code/rosieosi/european-soccer-analysis/input)
 
