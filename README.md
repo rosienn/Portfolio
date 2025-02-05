@@ -56,15 +56,16 @@ This section lists my data analytics and machine learning projects, with brief d
 
 **DataSet:** [Open Source (Kaggle)](https://www.kaggle.com/code/rosieosi/european-soccer-analysis/input)
 
-**Goal:** To join data from multiple tables—including players, teams, matches, and countries to generate a comprehensive view of European soccer. By integrating these datasets, the analysis uncovers key insights into team performance, player statistics, and match outcomes.
+**Goal:** To join data from multiple tables to generate a comprehensive view of European soccer. 
 
-**Description:** This project leverages SQL to extract, join, and analyze data from a European soccer database. By combining information from different tables, it provides a holistic understanding of league standings and player contributions, showcasing advanced querying and data manipulation skills.
+**Description:** This project leverages SQL to extract, join, and analyze data from a European soccer database. To provides a holistic understanding of league standings and player contributions, showcasing advanced querying and data manipulation skills.
  
 **Skills:** Joins, aggregate functions, subqueries, CTE's, querying.  
 
 **Technology:** SQL Server.  
 
-**Results:** The analysis provided a structured view of team standings, showcasing SQL skills in data extraction and manipulation.
+**Results:** By integrating these datasets, the analysis uncovers key insights into team performance, player statistics, and match outcomes.
+
 
 ### **Web Marketing KPI Dashboard**
 **Dashboard:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
