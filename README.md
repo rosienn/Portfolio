@@ -84,7 +84,8 @@ This section lists my data analytics and machine learning projects, with brief d
 ---
 
 ## **Education**
-- **Masters of Engineering in Mechanical Engineering, University College London**  
+- **Bachelors, Mechanical Engineering, First Class Honors, University College London**  
+- **Masters, Mechanical Engineering, Distinctin, University College London**  
 
 ---
 
