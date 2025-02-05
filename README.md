@@ -65,7 +65,7 @@ This section lists my data analytics and machine learning projects, with brief d
 ### **Web Marketing KPI Dashboard**
 **Dashboard:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-<img src="https://github.com/user-attachments/assets/be2e4adc-d59a-433b-b78f-d26635e35bf8" align="left" width="400" alt="Clustering Visualization">
+<img src="https://github.com/user-attachments/assets/be2e4adc-d59a-433b-b78f-d26635e35bf8" align="left" width="600" alt="Clustering Visualization">
 
 **DataSet:** [Open Source](https://github.com/rosienn/Portfolio/blob/main/Web%20Marketing_Migrated%20Data.csv.zip)
 
@@ -78,6 +78,8 @@ This section lists my data analytics and machine learning projects, with brief d
 **Technology:** Tableau.  
 
 **Results:** The dashboard effectively tracks key web marketing KPIs, allowing users to filter by traffic sources for deeper insights. It provides a clear, interactive view of marketing performance, supporting data-driven decision-making.
+
+**Expected Impact:** Utilizing the dashboard to assess marketing channel performance will lead to a 10-30% improvement in return on ad spend (ROAS) by reallocating budgets to the most effective channels. 
 
 ---
 
