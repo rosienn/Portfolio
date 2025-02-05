@@ -30,7 +30,7 @@ This section lists my data analytics and machine learning projects, with brief d
 ### **Shopper Segmentation and Clustering for Targeted Marketing** 
 **Code:** [Shopper Segmentation and Clustering for Targeted Marketing](https://github.com/rosienn/Portfolio/blob/main/Shopper%20Segmentation%20and%20Clustering%20for%20Targeted%20Marketing.ipynb)   
  
-<img src="https://github.com/user-attachments/assets/917ceed5-f225-4bb5-b41b-ef5a17ec35ac" align="left" width="500" alt="Clustering Visualization">
+<img src="https://github.com/user-attachments/assets/917ceed5-f225-4bb5-b41b-ef5a17ec35ac" align="left" width="600" alt="Clustering Visualization">
 
 **DataSet:** [Open Source (AbsentData)](https://absentdata.com/data-analysis/where-to-find-data/)
 
@@ -46,6 +46,8 @@ This section lists my data analytics and machine learning projects, with brief d
 
 - **Cluster 0**: High income and high spending score, with 53% women. A marketing campaign tailored to women’s preferences and popular items could be highly effective.
 - **Cluster 4**: Low income but high spending score, presenting an opportunity to attract customers through value-driven offers and loyalty programs.
+  
+**Expected Impact:** Targeted marketing campaigns for Cluster 0 and Cluster 4 are expected to increase conversion rates by aboiut 2.5% as well as improve Customer rentention and engarement
 
 ### **European Soccer Analysis**
 **Code:** [european-soccer-analysis](https://github.com/rosienn/Portfolio/blob/main/european-soccer-analysis.ipynb) 
@@ -64,6 +66,7 @@ This section lists my data analytics and machine learning projects, with brief d
 **Dashboard:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 <img src="https://github.com/user-attachments/assets/be2e4adc-d59a-433b-b78f-d26635e35bf8" align="left" width="400" alt="Clustering Visualization">
+**DataSet:** [Open Source (AbsentData)](https://absentdata.com/data-analysis/where-to-find-data/)
 
 **Goal:** Develop a Web Marketing KPI Dashboard that provides clear, data-driven insights into key performance indicators to help track and optimize digital marketing efforts.
 
