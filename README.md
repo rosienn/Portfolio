@@ -47,7 +47,7 @@ This section lists my data analytics and machine learning projects, with brief d
 - **Cluster 0**: High income and high spending score, with 53% women. A marketing campaign tailored to women’s preferences and popular items could be highly effective.
 - **Cluster 4**: Low income but high spending score, presenting an opportunity to attract customers through value-driven offers and loyalty programs.
   
-**Expected Impact:** Targeted marketing campaigns for Cluster 0 and Cluster 4 are expected to increase conversion rates by aboiut 2.5% as well as improve Customer rentention and engarement
+**Expected Impact:** Targeted marketing campaigns for Cluster 0 and Cluster 4 are expected to increase conversion rates by aboiut 2.5% as well as improve Customer rentention and engagement
 
 ### **European Soccer Analysis**
 **Code:** [european-soccer-analysis](https://github.com/rosienn/Portfolio/blob/main/european-soccer-analysis.ipynb) 
