@@ -52,7 +52,7 @@ This section lists my data analytics and machine learning projects, with brief d
 ### **European Soccer Analysis**
 **Code:** [european-soccer-analysis](https://github.com/rosienn/Portfolio/blob/main/european-soccer-analysis.ipynb) 
 
-<img src="https://github.com/rosienn/Portfolio/blob/rosienn-patch-1/Screenshot%202025-02-05%20at%202.00.06%20PM.png" align="left" width="600" alt="Clustering Visualization">
+<img src="https://github.com/user-attachments/assets/922c2d66-c04d-4ff6-9672-eec1d9ce0b19" align="left" width="600" alt="Clustering Visualization">
 
 **DataSet:** [Open Source (Kaggle)](https://www.kaggle.com/code/rosieosi/european-soccer-analysis/input)
 
@@ -70,7 +70,7 @@ This section lists my data analytics and machine learning projects, with brief d
 ### **Web Marketing KPI Dashboard**
 **Dashboard:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-<img src="https://github.com/rosienn/Portfolio/blob/rosienn-patch-1/Screenshot%202025-02-05%20at%2011.07.15%20AM.png" align="left" width="600" alt="Clustering Visualization">
+<img src="https://github.com/user-attachments/assets/a6f25ea7-4636-44f4-9f7d-ef01a24d6f6e" align="left" width="600" alt="Clustering Visualization">
 
 **DataSet:** [Open Source](https://github.com/rosienn/Portfolio/blob/main/Web%20Marketing_Migrated%20Data.csv.zip)
 
