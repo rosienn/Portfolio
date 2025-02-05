@@ -32,6 +32,8 @@ This section lists my data analytics and machine learning projects, with brief d
  
 <img src="https://github.com/user-attachments/assets/917ceed5-f225-4bb5-b41b-ef5a17ec35ac" align="left" width="500" alt="Clustering Visualization">
 
+**DataSet:** [Open Source (AbsentData)](https://absentdata.com/data-analysis/where-to-find-data/)
+
 **Goal:** Segment customers based on their behaviors and demographics to optimize marketing strategies.  
 
 **Description:** This project involved clustering customers using K-Means to identify patterns based on income, age, and spending score.
