@@ -52,10 +52,14 @@ This section lists my data analytics and machine learning projects, with brief d
 ### **European Soccer Analysis**
 **Code:** [european-soccer-analysis](https://github.com/rosienn/Portfolio/blob/main/european-soccer-analysis.ipynb) 
 
-**Goal:** Aanalyze a European soccer database, uncovering insights into player performance and match outcomes. 
+<img src="https://github.com/rosienn/Portfolio/blob/rosienn-patch-1/Screenshot%202025-02-05%20at%2011.07.15%20AM.png" align="left" width="600" alt="Clustering Visualization">
 
-**Description:** An SQL-driven exploration of a European soccer database, showcasing expertise in querying and data analysis.  
+**DataSet:** [Open Source (Kaggle)](https://www.kaggle.com/code/rosieosi/european-soccer-analysis/input)
 
+**Goal:** To join data from multiple tables—including players, teams, matches, and countries to generate a comprehensive view of European soccer. By integrating these datasets, the analysis uncovers key insights into team performance, player statistics, and match outcomes.
+
+**Description:** This project leverages SQL to extract, join, and analyze data from a European soccer database. By combining information from different tables, it provides a holistic understanding of league standings and player contributions, showcasing advanced querying and data manipulation skills.
+ 
 **Skills:** Joins, aggregate functions, subqueries, CTE's, querying.  
 
 **Technology:** SQL Server.  
