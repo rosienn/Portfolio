@@ -65,7 +65,7 @@ This section lists my data analytics and machine learning projects, with brief d
 ### **Web Marketing KPI Dashboard**
 **Dashboard:** [Web-Marketing-Dashboard](https://public.tableau.com/views/WebMarketingDashboard_17382600105870/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-<img src="" align="left" width="600" alt="Clustering Visualization">
+<img src="https://github.com/rosienn/Portfolio/blob/rosienn-patch-1/Screenshot%202025-02-05%20at%2011.07.15%20AM.png" align="left" width="600" alt="Clustering Visualization">
 
 **DataSet:** [Open Source](https://github.com/rosienn/Portfolio/blob/main/Web%20Marketing_Migrated%20Data.csv.zip)
 
